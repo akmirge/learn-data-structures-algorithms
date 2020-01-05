@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.Arrays;
+package algorithms.data_structures.learn.arrays;
 
 public class SampleArray {
   public static void main(String args[]) {
