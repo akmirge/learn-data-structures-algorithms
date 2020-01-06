@@ -17,8 +17,8 @@ public class ArrayElements {
 
   public static void main(String args[]) {
     ArrayElements elements = new ArrayElements();
-    int[] array = {6, 7, 4, 5, 12, 16, 1}; //two set pairs
-//  int[] array = {12, 10, 1, 3, 15}; // one set pairs
+    int[] array = {6, 7, 4, 5, 12, 16, 1}; //two set pairs (6, 5) , (7, 4) and (5, 12), (16, 1)
+//  int[] array = {12, 10, 1, 3, 15}; // one set pairs (12, 1) , (10, 3)
 //  int[] array = {6, 16, 8, 4, 15}; // no match
 
 
