@@ -22,7 +22,7 @@ public class ArrayElements {
 //  int[] array = {6, 16, 8, 4, 15}; // no match
 
 
-    boolean pairsFound =	elements.findPairs(array);
+    boolean pairsFound = elements.findPairs(array);
     if (!pairsFound) {
       System.out.println("No pairs were found for the given array!");
     }
