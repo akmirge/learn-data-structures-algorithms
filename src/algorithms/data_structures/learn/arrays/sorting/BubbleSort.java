@@ -7,6 +7,14 @@ public class BubbleSort {
     //  25, -15, 32, -55,  67, 19, 1
     //   25, -15, 32, -55, 19, 67, 1
     // 25, -15, 32, -55, 19, 1, 67
+    sort(intArray);
+    System.out.println("After bubble sort::");
+    for (int i = 0; i < intArray.length; i++) {
+      System.out.println(intArray[i]);
+    }
+  }
+
+  public static void sort(int[] intArray) {
     if (intArray == null || intArray.length == 0) {
       throw new IllegalArgumentException("Invalid or Empty Array");
     }
