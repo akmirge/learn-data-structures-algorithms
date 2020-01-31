@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.arrays.sorting;
+package algorithms.data_structures.learn.sorting;
 
 public class InsertionSort {
   public static void main(String args[]) {

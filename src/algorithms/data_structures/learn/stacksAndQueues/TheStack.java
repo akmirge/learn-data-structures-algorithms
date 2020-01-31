@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.arrays.stacksAndQueues;
+package algorithms.data_structures.learn.stacksAndQueues;
 
 public class TheStack {
   private final String[] stackArray;

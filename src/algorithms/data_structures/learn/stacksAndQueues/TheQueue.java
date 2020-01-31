@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.arrays.stacksAndQueues;
+package algorithms.data_structures.learn.stacksAndQueues;
 import java.util.Arrays;
 
 public class TheQueue {

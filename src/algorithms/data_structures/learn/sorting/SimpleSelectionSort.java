@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.arrays.sorting;
+package algorithms.data_structures.learn.sorting;
 
 public class SimpleSelectionSort {
   public static void main(String[] args) {

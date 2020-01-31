@@ -1,6 +1,6 @@
-package algorithms.data_structures.learn.arrays.searching;
+package algorithms.data_structures.learn.searching;
 
-import algorithms.data_structures.learn.arrays.sorting.BubbleSort;
+import algorithms.data_structures.learn.sorting.BubbleSort;
 
 public class BinarySearch {
   public static void main(String[] args) {

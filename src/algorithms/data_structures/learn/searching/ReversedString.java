@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.arrays.searching;
+package algorithms.data_structures.learn.searching;
 
 public class ReversedString {
   public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package algorithms.data_structures.learn.arrays.searching;
+package algorithms.data_structures.learn.searching;
 
 import java.util.HashMap;
 import java.util.Map;
